@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 interface Observer {
     void notify(String changed);
 }
@@ -16,7 +18,7 @@ class Subscriber implements Observer {
 
     @Override
     public int hashCode() {
-        return 1;
+        return Objects.hashCode(id);
     }
 
     @Override
