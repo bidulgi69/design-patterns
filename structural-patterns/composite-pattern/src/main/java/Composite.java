@@ -22,11 +22,6 @@ class Cart implements Product {
     }
 
     @Override
-    public void setPrice(int price) {
-
-    }
-
-    @Override
     public int getPrice() {
         return products
                 .stream()
