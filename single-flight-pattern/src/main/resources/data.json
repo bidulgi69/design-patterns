@@ -1,0 +1,202 @@
+[
+  {
+    "channel_id": 1,
+    "user_id": 1,
+    "content": "Hello World!"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 2,
+    "content": "Elvis Has Left The Building"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 3,
+    "content": "A Lone Wolf"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 4,
+    "content": "Under Your Nose"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 5,
+    "content": "Flea Market"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 6,
+    "content": "Keep On Truckin'"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 7,
+    "content": "Cut The Mustard"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 8,
+    "content": "Wake Up Call"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 9,
+    "content": "Cut To The Chase"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 10,
+    "content": "A Bite at the Cherry"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 11,
+    "content": "Beating Around the Bush"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 12,
+    "content": "Mountain Out of a Molehill"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 13,
+    "content": "Between a Rock and a Hard Place"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 14,
+    "content": "No-Brainer"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 15,
+    "content": "Close But No Cigar"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 16,
+    "content": "Knock Your Socks Off"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 17,
+    "content": "Go Out On a Limb"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 18,
+    "content": "A Piece of Cake"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 19,
+    "content": "Heads Up"
+  },
+  {
+    "channel_id": 1,
+    "user_id": 20,
+    "content": "A Fool and His Money Are Soon Parted"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 1,
+    "content": "Birds of a Feather Flock Together"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 2,
+    "content": "Let Her Rip"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 3,
+    "content": "Down For The Count"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 4,
+    "content": "Long In The Tooth"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 5,
+    "content": "Drawing a Blank"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 6,
+    "content": "A Cut Above'"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 7,
+    "content": "Quick and Dirty"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 8,
+    "content": "Back To the Drawing Board"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 9,
+    "content": "Hands Down"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 10,
+    "content": "A Dime a Dozen"
+  },
+  {
+    "channel_id": 2,
+    "user_id": 11,
+    "content": "Yada Yada"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 12,
+    "content": "Go For Broke"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 13,
+    "content": "Dropping Like Flies"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 14,
+    "content": "Ugly Duckling"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 15,
+    "content": "Lickety Split"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 16,
+    "content": "Head Over Heels"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 17,
+    "content": "Barking Up The Wrong Tree"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 18,
+    "content": "Right Off the Bat"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 19,
+    "content": "Ring Any Bells?"
+  },
+  {
+    "channel_id": 3,
+    "user_id": 20,
+    "content": "When the Rubber Hits the Road"
+  }
+]
